@@ -1,0 +1,1 @@
+Skip list view to make a simple confguration entry in a table
