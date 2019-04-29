@@ -1,1 +1,2 @@
-include django_pmedien_defaults/main.js
+exclude app/**/*
+exclude project/**/*
